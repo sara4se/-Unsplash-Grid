@@ -1,2 +1,2 @@
 # MyApplication
-gallery app using PicsumApi - kotlin lang
+gallery app using hilt - kotlin lang
