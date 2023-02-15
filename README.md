@@ -29,12 +29,6 @@ Model-view-viewmodel (MVVM)
 * Kotlin Flows and Coroutines.
 * Network: Retrofit and Gson.
 
-## :camera_flash: Screenshots
-
-<img src="/result/successful.png" width="260">&emsp;<img src="/result/dark.png" width="260">
-
-<img src="/result/loading_screenshot.png" width="260">&emsp;<img src="/result/image_loading.png" width="260">&emsp;<img src="/result/error.png" width="260">
-
 
 ### API link:
 [Picsum](https://picsum.photos)
